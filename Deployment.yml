@@ -17,4 +17,4 @@ spec:
           image: vikashashoke/pipeline-demo
           imagePullPolicy: Always
           ports:
-          - containerPort: 80
+          - containerPort: 82
